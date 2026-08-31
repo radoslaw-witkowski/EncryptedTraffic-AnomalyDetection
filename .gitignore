@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw network traffic / datasets
+data/
+raw_data/
+captures/
+*.pcap
+*.pcapng
+conn.log
+zeek_logs/
+
+# Temporary files
+*.tmp
+*.temp
