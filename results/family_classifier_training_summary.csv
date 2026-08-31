@@ -1,0 +1,10 @@
+scenario,flows,embeddings,embedding_dim
+guloader,10,10,32
+scanning,144356,144356,32
+njrat,497,497,32
+kongtuke1,222,222,32
+kongtuke2,104,104,32
+remcos,175,175,32
+xloader,855,855,32
+xworm,6,6,32
+phantomstealer,8,8,32

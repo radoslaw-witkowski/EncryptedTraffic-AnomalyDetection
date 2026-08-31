@@ -1,0 +1,10 @@
+,guloader,scanning,njrat,kongtuke1,kongtuke2,remcos,xloader,xworm,phantomstealer
+guloader,1,0,0,1,0,0,1,0,0
+scanning,0,272,2,2,0,2,20,0,2
+njrat,0,1,144,0,1,1,2,0,0
+kongtuke1,0,3,0,44,6,8,6,0,0
+kongtuke2,0,2,0,4,14,2,9,0,0
+remcos,0,0,0,8,2,34,9,0,0
+xloader,0,0,0,2,2,1,252,0,0
+xworm,0,0,0,1,0,0,1,0,0
+phantomstealer,0,0,0,0,2,0,0,0,0

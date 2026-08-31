@@ -1,0 +1,11 @@
+﻿scenario,window_size,step,LSTM_detected,LSTM_total_windows,LSTM AE DR (%)
+normal (FPR),5,1,18857,377135,5.00
+guloader,5,1,6,6,100.00
+scanning,5,1,141293,144352,97.88
+njrat,5,1,493,493,100.00
+kongtuke1,5,1,177,218,81.19
+kongtuke2,5,1,74,100,74.00
+remcos,5,1,150,171,87.72
+xloader,5,1,800,851,94.01
+xworm,5,1,2,2,100.00
+phantomstealer,5,1,4,4,100.00

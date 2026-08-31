@@ -1,0 +1,2 @@
+accuracy,samples_total,samples_train,samples_test,embedding_dim,max_per_class
+0.8807870370370371,2877,2013,864,32,1000
